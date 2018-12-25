@@ -10,11 +10,14 @@ Run magic_map.py and follow the user instruction. </br>
 
 ## Images Preview
 **The Original Map** </br>
-![](image/map.png) </br>
+![](magic_map/image/map.png)
+</br>
 
 **A Simplified Map** </br>
-![](image/graph.png) </br>
+![](magic_map/image/graph.png)
+</br>
 
 **User Interface**</br>
-![](image/interface.png) </br>
-![](image/query.png) </br>
+![](magic_map/image/interface.png)
+</br>
+![](magic_map/image/query.png)
